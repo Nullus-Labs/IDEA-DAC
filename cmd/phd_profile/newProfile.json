@@ -1,0 +1,23 @@
+{
+  "Status": "Ongoing",
+  "ProgramYear": 5,
+  "StudentID": "UNI42",
+  "Publications": [
+    {
+      "Title": "ZK-Profile",
+      "Year": 2023
+    },
+    {
+      "Title": "ZK-Cred",
+      "Year": 2022
+    },
+    {
+      "Title": "ZK-Auth",
+      "Year": 2023
+    }
+  ],
+  "Duration": {
+    "Start": 1561016554,
+    "End": 1781941354
+  }
+}

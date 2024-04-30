@@ -1,0 +1,19 @@
+{
+    "Status": "Approved",
+    "ProgramYear": 5,
+    "StudentID": "UNI42",
+    "Publications": [
+        {
+            "Title": "ZK-Profile",
+            "Year": 2023
+        },
+        {
+            "Title": "ZK-Cred",
+            "Year": 2022
+        }
+    ],
+    "Duration": {
+        "Start": 1561016554,
+        "End": 1687275819
+    }
+}
